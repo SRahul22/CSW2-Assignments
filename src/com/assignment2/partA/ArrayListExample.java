@@ -57,7 +57,8 @@ public class ArrayListExample {
                             list.remove(pos);
                             System.out.println("Element removed.");
                         }
-                    } break;
+                    }
+                    break;
                 case 4:
                     System.out.println("Enter a number to add to the list: ");
                     int addNum = sc.nextInt();

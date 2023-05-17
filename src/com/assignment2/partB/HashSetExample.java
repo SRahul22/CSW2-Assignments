@@ -1,5 +1,7 @@
 package com.assignment2.partB;
+
 import java.util.HashSet;
+
 public class HashSetExample {
     public static void main(String[] args) {
         // Create a hash set of type string

@@ -2,7 +2,7 @@ package com.assignment1;
 
 public class Q4 {
     public static int binarySearch(int[] array, int key, int start, int end) {
-        if(start>end){
+        if (start > end) {
             return -1;
         }
         int mid = (start + end) / 2;
@@ -25,6 +25,6 @@ public class Q4 {
     }
 
     public static void main(String[] args) {
-        System.out.println(binarySearch(new int[]{1, 2, 3, 4, 5},3));
+        System.out.println(binarySearch(new int[]{1, 2, 3, 4, 5}, 3));
     }
 }

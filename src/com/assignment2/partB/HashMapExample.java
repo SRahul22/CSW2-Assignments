@@ -1,5 +1,7 @@
 package com.assignment2.partB;
+
 import java.util.HashMap;
+
 public class HashMapExample {
     public static void main(String[] args) {
         // Create a hash map
